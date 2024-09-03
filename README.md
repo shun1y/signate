@@ -11,7 +11,7 @@ SIGNATE Cup 2024コンペのリポジトリ(https://signate.jp/competitions/1376
 ### やったこと
 
 - 前処理
--   
+ -   
 - 特徴量エンジニアリング
 - モデルの作成
 - モデルの評価
