@@ -41,4 +41,7 @@ SIGNATE Cup 2024コンペのリポジトリ(https://signate.jp/competitions/1376
   - 複数モデルの平均を取る  
 
 ### やれなかったこと
-- 
+- 不均衡データへの適応
+
+### 上位者の解法
+bronze(https://resweater.hatenablog.com/entry/2024/09/03/202547?utm_source=substack&utm_medium=email)
